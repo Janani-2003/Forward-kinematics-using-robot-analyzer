@@ -52,7 +52,7 @@ STEP 6:Update the DH parameters of the link configuration and end effector confi
 ## DH PARAMETERS
 ## 6 DOF
 
-![image](https://github.com/Janani-2003/Forward-kinematics-using-robot-analyzer/assets/94288340/be9c90a4-d25e-45f5-bd24-0df8b7a818b5)
+![image](https://github.com/Janani-2003/Forward-kinematics-using-robot-analyzer/assets/94288340/ae1fd899-15e5-4908-a629-ce5535dfe081)
 
 ## 4 DOF
 
